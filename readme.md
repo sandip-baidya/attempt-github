@@ -1,6 +1,12 @@
-### Hello from crazy-idea branch
+## Learning how to use github
 
-This is not the master branch, so it doesn't have the readme.md file that the master branch has.
+- This is a repo that I've created in the hopes of developing a better grasp on github and git
+- Do not contribute anything to this repository
 
->I will try to push these changes via the same remote used for master, to crazy-idea branch this time, on GitHub. Let's see what happens.
+## Contact
 
+[Sandip Baidya](sandipbaidya1700@gmail.com)
+
+### Warning
+
+In a matter of a few days, this repository will stop existing.
